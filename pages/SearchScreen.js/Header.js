@@ -14,10 +14,9 @@ export default Header;
 
 const styles = StyleSheet.create({
    appbar: {
-    position: 'sticky',
+    // position: 'sticky',
     top: 0,
     marginTop:-100
-    
   },
 
 
