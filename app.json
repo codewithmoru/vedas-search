@@ -1,0 +1,41 @@
+{
+  "expo": {
+    "name": "vedaf",
+    "slug": "snack-ec049646-9944-4889-81eb-8579f1ef96ed",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/vedalogo.png",
+    "userInterfaceStyle": "light",
+    "splash": {
+      "image": "./assets/vedalogo.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "updates": {
+      "fallbackToCacheTimeout": 0
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/adaptive-icon.png",
+        "backgroundColor": "#FFFFFF"
+      },
+      "package": "com.vedas.vedaf",
+      "versionCode": 1
+    },
+    "web": {
+      "favicon": "./assets/favicon.png"
+    },
+    "description": "Example of React Native Bottom  Navigation",
+    "extra": {
+      "eas": {
+        "projectId": "d25fbc60-4926-4095-a032-3ded8d80fb31"
+      }
+    }
+  }
+}
